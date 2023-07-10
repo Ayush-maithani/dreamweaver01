@@ -1,0 +1,74 @@
+@charset "utf-8";
+.container-fluid {
+    background-color: #A6A5A5;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(200,200,200,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(200,200,200,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(200,200,200,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(200,200,200,1.00) 100%);
+    background-color: #000000;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #F0A518;
+}
+.card.col-md-4.col-lg-11 .card-body .btn.btn-primary {
+    background-color: #0D0D0D;
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    color: #FDCD00;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    color: #FDCD00;
+}
+#headingOne1 .mb-0 a {
+
+}
+#accordion2 .card #headingOne1 {
+    background-color: #050404;
+}
+#accordion2 .card #headingTwo1 {
+    background-color: #050404;
+}
+#accordion2 .card #headingTwo1 {
+    background-color: #050404;
+}
+.card #headingOne1 .mb-0 {
+    color: #FFB600;
+}
+#accordion2 .card #headingOne1 {
+    color: #F0E707;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #E4F01B;
+}
+#headingOne1 .mb-0 a {
+    color: #E4F01B;
+}
+
+
+
+
+#accordion2 .card #collapseTwo1 {
+    background-color: #050404;
+}
+#accordion2 .card #collapseTwo1 {
+    background-color: #050404;
+}
+
+#accordion2 .card #collapseThree1 {
+    background-color: #050404;
+}
+#accordion2 .card #collapseThree1 {
+    background-color: #050404;
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(255,0,0,1.00) 100%);
+}
